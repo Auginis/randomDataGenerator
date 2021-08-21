@@ -12,4 +12,4 @@ for temp in files:
         for line in lines:
             words = line.split(' ')
             file = open("count.txt", 'a')
-            file.write("{}\n".format(len(words)))
+            file.write("{}: {}\n".format(temp, len(words)))

@@ -1,2 +1,2 @@
-1836
-1502
+Names.txt: 1836
+Surnames.txt: 1502
